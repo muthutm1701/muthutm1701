@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muthutm)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthutm1701@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=muthutm1701&color=blueviolet&style=flat)
+
 
 </div>
 
