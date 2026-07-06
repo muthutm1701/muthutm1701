@@ -52,18 +52,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muthutm1701&theme=dark&hide_border=false&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthutm1701&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=muthutm1701&theme=dark&hide_border=false" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
